@@ -2,7 +2,9 @@
 
 This repository is the **PyTorch** Implementation.
 
+Our experiment is based on the MMsegmentation 0.13 version.
 
+Due to our proposed PNE loss being plug-on-play, we provide the code of PNE loss and an example to apply the PNE loss on the ASPP decoder in the MMsegmentation framework.
 
 ## Citing PNE loss
 
