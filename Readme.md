@@ -1,5 +1,7 @@
 ## Positive-negative equal contrastive loss for semantic segmentation
 
+![image](https://github.com/jingw193/PNE_Loss/assets/81085635/fb55fd5b-3fd8-4f1d-9552-44822cb6f215)
+
 This repository is the **PyTorch** Implementation.
 
 Our experiment is based on the MMsegmentation 0.13 version.
